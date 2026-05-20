@@ -70,8 +70,10 @@ Time Period:
 ---
 
 ## Dashboard Preview
+<img width="605" height="753" alt="Retail_Sales_Analytics" src="https://github.com/user-attachments/assets/ff1788dc-e4fe-47ea-8ee4-d2439283691e" />
 
-(Add dashboard screenshot here)
+
+
 
 ---
 
